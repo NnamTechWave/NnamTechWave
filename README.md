@@ -10,24 +10,25 @@
 👋 Hi there! I'm Daniel Cyril Nnam, an aspiring full-stack developer with a passion for creating dynamic and robust web applications.
 
 About Me
-I am on a continuous journey to master the art of full-stack development. I enjoy learning new technologies, solving complex problems, and contributing to open-source projects. Currently, I'm focusing on improving my skills in both front-end and back-end development.
+I'm a full stack developer with a passion for creating engaging and interactive web experiences. I specialize in frontend development with a strong background in JavaScript, React.js, Vue.js, and various front-end frameworks. I'm also proficient in backend development using Python and Django, as well as performance optimization and web security practices.
+
+Current Projects
+- Janika Expressions: A project for a tailoring organization where I'm working on an admin dashboard with different user roles, including Users, Associates, and Admin. The project is built using Flask for the backend and focuses on responsive design and user interactivity.
+- NexTrend: A dropshipping business where I'm currently leveraging social media for marketing. I'm looking into strategies for product selection, branding, and building a website in the future.
+- WashHouse: A laundry template project emphasizing frontend design with high-quality animations and motion.
+- Blog: A content-rich blog focused on coding and programming. Aimed at growing a large following within the coding community, featuring tutorials, insights, and industry updates.
+- Portfolio: A showcase of my work and skills as a developer. This project highlights my expertise in frontend and backend development, including various personal and professional projects.
 
 Skills and Technologies
-Front-end
-HTML
-CSS
-JavaScript
-React
-Back-end
-Node.js
-Express.js
-MongoDB
-Python
-Tools
-Git & GitHub
-Visual Studio Code
-Postman
-Docker
+- Frontend: HTML5, CSS, JavaScript, React.js, Vue.js, AngularJS, Responsive Design, Web Accessibility
+- Backend: Python, Django, Flask, SQL, RESTful APIs
+- Others: Performance Optimization, Web Security Practices, Git Version Control
+
+Achievements
+- Community Contribution Award
+- Volunteer Web Developer
+- Featured in Design Showcase
+
 <!--Projects
 Project 1
 A brief description of what Project 1 does and its key features.
@@ -43,7 +44,7 @@ Get in Touch
 I'm always excited to connect with fellow developers and collaborators. Feel free to reach out to me via:
 
 Email: cyrilnnamsi@gmail.com
-LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/daniel-nnam-00ba17268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/daniel-nnam-00ba17268)
 <!--Twitter: @your_twitter_handle-->
 Let's Collaborate!
 I'm open to collaborating on interesting projects and contributing to open-source. If you have an idea or a project you think we could work on together, don't hesitate to get in touch!
